@@ -17,13 +17,14 @@
 
 #content > p {
     padding: 10px;
+
 }
 
 #bottom {
     color: grey;
     text-decoration: underline;
     width: 100%;
-    margin: 30px;
+    margin: 20px;
     display: flex;
     align-items:bottom;
     justify-content: space-around;
